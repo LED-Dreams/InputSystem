@@ -1,0 +1,5 @@
+/home/pi/HackISU2016/Input/InputSystem/source/raspicam-0.0.5/build/src/CMakeFiles/raspicam.dir
+/home/pi/HackISU2016/Input/InputSystem/source/raspicam-0.0.5/build/src/CMakeFiles/raspicam_cv.dir
+/home/pi/HackISU2016/Input/InputSystem/source/raspicam-0.0.5/build/utils/CMakeFiles/raspicam_cv_test.dir
+/home/pi/HackISU2016/Input/InputSystem/source/raspicam-0.0.5/build/utils/CMakeFiles/raspicam_test.dir
+/home/pi/HackISU2016/Input/InputSystem/source/raspicam-0.0.5/build/CMakeFiles/uninstall.dir
